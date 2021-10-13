@@ -25,3 +25,6 @@ The parameters *input_file* and *acc_time* are required. Explanation of every pa
 * video_res  -> Set this parameter True if you want to generate a video from the resulting frames. It's useful in order to check the correctness of the detections and the overall result.
 
 The converted frames are stored in the result directory, whereas the detections (landmarks and bounding boxes) are stored in Detections directory as numpy files. <br /> The bounding boxes are arrays of the type: \[x1, y1, x2, y2\] where (x1,y1) are the coordinates of the top-left point and (x2,y2) correspond to the bottom-right point.
+
+## Train a face detector
+In the project from which this code comes, with the resulting frames a face detector has been trained (for more info check the doc). The face detection system that has been used can be found at https://github.com/eriklindernoren/PyTorch-YOLOv3/tree/df98840d000bcc98c1b2db5df10f430550caf937. If you want to use the annotated dataset obtained with the code of this repository to train YOLOv3 follow the instructions on his repository. The only preprocessing operations needed before the training regards the bounding box format (to adapt to YOLOv3 requirements).
