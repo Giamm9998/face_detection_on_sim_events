@@ -4,7 +4,8 @@ This repository contains code that implements the conversion of RGB video to eve
 
 ![conc](https://user-images.githubusercontent.com/49485831/145583080-5b6ae20f-1b00-448b-8ef6-c5869d271b9b.png)
 ![conc2](https://user-images.githubusercontent.com/49485831/145583083-4f5cd3b0-1c8e-4915-a54f-aa0768519483.png)
-![conc3](https://user-images.githubusercontent.com/49485831/145583084-acc86de4-11d5-4bef-bbbb-8eb975c9e454.png)
+![res_conc3](https://user-images.githubusercontent.com/49485831/145583524-e5405cec-eccc-45c2-ae34-7c547e67d4f1.png)
+
 
 
 ## Important requirements
