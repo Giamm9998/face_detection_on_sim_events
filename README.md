@@ -2,11 +2,15 @@
 
 This repository contains code that implements the conversion of RGB video to event-based video with face detection. It can be used to create an annotated dataset of event-based frames (or videos). The code for the simulation comes from this other repository https://github.com/uzh-rpg/rpg_vid2e therefore you need to install all the packages/requirements specified there in order to use this repository.
 
-![conc](https://user-images.githubusercontent.com/49485831/145583080-5b6ae20f-1b00-448b-8ef6-c5869d271b9b.png)
-![conc2](https://user-images.githubusercontent.com/49485831/145583083-4f5cd3b0-1c8e-4915-a54f-aa0768519483.png)
-![res_conc3](https://user-images.githubusercontent.com/49485831/145583524-e5405cec-eccc-45c2-ae34-7c547e67d4f1.png)
-
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/49485831/145583080-5b6ae20f-1b00-448b-8ef6-c5869d271b9b.png"/>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/49485831/145583083-4f5cd3b0-1c8e-4915-a54f-aa0768519483.png"/>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/49485831/145583524-e5405cec-eccc-45c2-ae34-7c547e67d4f1.png"/>
+</p>
 
 ## Important requirements
 These are the most important required packages to install:
